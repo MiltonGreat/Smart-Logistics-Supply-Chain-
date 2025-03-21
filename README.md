@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project focuses on optimizing supply chain operations by analyzing a comprehensive dataset that captures various aspects of logistics management. The dataset includes real-time data from IoT sensors, environmental conditions, traffic statuses, and user behaviors, enabling advanced analytics and machine learning applications to improve logistics efficiency. The goal is to identify key factors contributing to delays, optimize asset utilization, and enhance overall supply chain performance.
+This project optimizes supply chain operations by analyzing various aspects of logistics management. The dataset includes real-time data from IoT sensors, environmental conditions, traffic statuses, and user behaviors, enabling advanced analytics and machine learning applications to improve logistics efficiency. The goal is to identify key factors contributing to delays, optimize asset utilization, and enhance overall supply chain performance.
 
 ### Dataset Description
 
